@@ -1,1 +1,1 @@
-These files are part of the Basic Repo assignment
+These files are part of the Basic Repo assignment. This assignment is about learning to push to gitHub.
